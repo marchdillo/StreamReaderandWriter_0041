@@ -29,4 +29,13 @@ int main()
 
     cout << endl
          << ">= Membuka dan membaca file " << endl;
+
+    if (infile.is_open())
+    {
+        while (getline(infile, baris))
+        {
+            cout << baris << '\n';
+        }
+        infile.close();
+    }
 };
