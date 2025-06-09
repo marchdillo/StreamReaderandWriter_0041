@@ -11,4 +11,5 @@ int main()
     cin >> namaFile;
 
     ofstream outfile;
+    outfile.open(namaFile + ".txt");
 };
