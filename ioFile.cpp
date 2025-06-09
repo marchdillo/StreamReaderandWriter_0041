@@ -23,4 +23,7 @@ int main()
             break;
         outfile << baris << endl;
     }
+    outfile.close();
+    ifstream infile;
+    infile.open(namaFile + ".txt");
 };
