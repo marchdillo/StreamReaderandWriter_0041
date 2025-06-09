@@ -1,0 +1,8 @@
+PS D:\KULIAH\SEMESTER 2\Pemrograman Dasar\Pertemuan ketigabelas>  & 'c:\Users\LOQ\.vscode\extensions\ms-vscode.cpptools-1.25.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-5q41db15.4s5' '--stdout=Microsoft-MIEngine-Out-kqomztyu.efw' '--stderr=Microsoft-MIEngine-Error-yd0u5gds.ofy' '--pid=Microsoft-MIEngine-Pid-ptn1emtk.kt2' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
+Masukkan nama file: iofile.cpp
+>= Menulis file, 'q' untuk keluar
+- - q
+
+>= Membuka dan membaca file 
+
+PS D:\KULIAH\SEMESTER 2\Pemrograman Dasar\Pertemuan ketigabelas> 
