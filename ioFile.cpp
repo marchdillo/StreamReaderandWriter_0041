@@ -12,4 +12,6 @@ int main()
 
     ofstream outfile;
     outfile.open(namaFile + ".txt");
+
+    cout << ">= Menulis file, \'q\' untuk keluar" << endl;
 };
